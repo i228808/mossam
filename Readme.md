@@ -3,3 +3,5 @@ Run index.html.
 Weather App also deployed at github at:https://i228808.github.io/Weather-App/
 
 Main Branch Change by Another Developer
+
+Updated Readme for SCD LAB
